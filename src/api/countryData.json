@@ -1,5 +1,5 @@
     [
-        { "id": 1, "countryName": "Japan", "capital": "Tokyo", "population": 126500000, "interestingFact": "Japan has more than 1,500 earthquakes each year." },
+        { "id": 1, "countryName": "India", "capital": "New Delhi", "population": 1400000000, "interestingFact": "The most populous country, home to the world's oldest religion (Hinduism), and the birthplace of yoga and chess" },
         { "id": 2, "countryName": "Brazil", "capital": "Brasília", "population": 213000000, "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world." },
         { "id": 3, "countryName": "Egypt", "capital": "Cairo", "population": 104124440, "interestingFact": "Egypt is home to the ancient Pyramids of Giza, one of the Seven Wonders of the Ancient World." },
         { "id": 4, "countryName": "Australia", "capital": "Canberra", "population": 25690000, "interestingFact": "Australia is the only country that is also a continent." },

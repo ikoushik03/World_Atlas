@@ -3,9 +3,10 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Home } from "./pages/Home";
 import { About } from "./pages/About";
 import { Contact } from "./pages/Contact";
-import { Country } from "./pages/Country";
+
 import { ErrorPage } from "./pages/ErrorPage";
 import { AppLayout } from "./components/Layout/AppLayout";
+import { Country } from "./pages/Country";
 
 const router = createBrowserRouter([
   {

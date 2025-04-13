@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Noida, UP"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "8083826647"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "koushiksharma9939@gmail.com"
+    }
+  ]
